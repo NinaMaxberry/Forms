@@ -1,0 +1,5 @@
+/* To align radio button from user agent stylesheet */
+.input[type="radio"] {
+    margin-right: 0;
+    padding-left: 120px;
+}
